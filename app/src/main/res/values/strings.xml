@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SomeReform</string>
+    <string name="title_text">Self.Gratitude.Journal</string>
+    <string name="greatful_text">How are you greatful today?</string>
+    <string name="get_started_text">Get Started</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">password</string>
+    <string name="password_hint0">Password</string>
+    <string name="login_text">Login</string>
+    <string name="login_tex">Login</string>
+    <string name="create_text">Create Account</string>
+    <string name="Username_hint">Username</string>
+    <string name="non">non</string>
+    <string name="username">username</string>
+    <string name="gina">Gina</string>
+    <string name="today">Today</string>
+    <string name="button">Button</string>
+    <string name="title">Title</string>
+    <string name="your_thoughts">Your Thoughts</string>
+</resources>

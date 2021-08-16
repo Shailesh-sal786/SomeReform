@@ -1,0 +1,2 @@
+rootProject.name = "SomeReform"
+include ':app'
